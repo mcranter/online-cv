@@ -3,187 +3,118 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ciara Mc Grattan
+    tagline: Sofware Development/Customer Support/Journalism
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: mcranter@gmail.com
+    phone: +353 08 072 13 18
+    linkedin: ciara-mc-grattan
+    github: mcranter
+  
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Irish
+        level: Proficient
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Conversational
+
 
     interests:
-      - item: Climbing
-        link:
+      - item: Video Editing
+        link: youtube.com/channel/UCFY-s7NMq71M7HSP6HzjjFw
 
-      - item: Snowboarding
-        link:
+      - item: Bad Cartooning
+        link: instagram.com/postit_pictorial/
 
-      - item: Cooking
-        link:
+      - item: Blogging
+        link: adventuresintv.wordpress.com/
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a former journalist who, in 2019, took a job with Shopify in order to forge a new career path in tech. 
+      My time there inspired to learn more about backend systems, and so in 2020 I began a software development course and this year I earned a Diploma in Full Stack Software Development. 
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - Course: Full Stack Software Development
+      Institute: Code Institute, 
+      time: 2020 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I studied remotely with Code Institute, Europe & UK's only university credit-rated coding bootcamp.
+        Check out my Github to see my projects!
+    
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Project Manager
+      time: 2019-2020
+      company: SpunOut, Dublin
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        • The brief of this fixed term project (which lasted 5 months) was to compile a database of signposts for a new service called the Crisis Text Line, which provides text support to people in crisis. This also involved updating, editing and verifying the existing SpunOut service listings (which appear on the site’s Help section) as the two organisations are run by a single parent company.
+        • The project itself was divided into several strands. The first involved verifying existing SpunOut listings by contacting the 600+ services/organisations listed on the site. This required reaching out to the respective services by email and phone to confirm that details were correct. Once that was done, I researched the services in greater detail to determine whether they met the predetermined criteria (that they be a recognised charity or state body, have clear funding streams, adhere to the company ethos, that they be free/ affordable, nationally available, and where possible GDPR compliant).
+        • Once those details were confirmed, I initiated a mailing campaign and automated system using a combination of Mailchimp, Zapier and Insightly (CRM) to enable the services to update their own listings in ‘real time’ going forward, removing the need to manually verify each services’ details on a regular basis. This automation will save great time and effort going forward.
+    - role: Guru
+      time: 2018-2019
+      company: Shopify, Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        My duty was to support independent business owners in profitability by increasing audience footprints, expanding advertising reach, and developing effective marketing campaigns. I assisted establishing merchant domains, integrating stores with third party applications and channels, and recommended design layouts. I also resolved technical issues including domain connections, billing, store and platform themes. I advised on photo captions and product descriptions to drive sales.
+        Consistently exceeded biweekly performance evaluations measuring quality and progress towards financial targets.
+      • Delivered stellar customer service and supported struggling merchants in making sales by providing education on marketing strategies.
+    - role: Assistant Editor
+      time: 2007-2018
+      company: GCN, Dublin
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        During my 11 year tenure at GCN, I:
+      • Composed relevant and engaging content for targeted audience. Directed digital marketing and branding through website management, platform updates, and online ads.
+      • Utilised SEO, post optimisation, and influencer sponsorships to drive reader engagement.
+      • Designed templates and completed page layouts for print and digital formats. Led topic sourcing and story investigations to support feature writing, articles, and media reviews.
+      • Scheduled and conducted interviews, edited articles, and supported writers in professional development and technical writing techniques.
+      • Researched competitor publications and employed new writing styles, designed marketing methods, and explored new revenue opportunities.
+        Was promoted through positions of increasing scope and responsibility from Freelance Film Critic, to Contract Journalist and ending with Assistant Editor.
+
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        Some of the projects I've created include:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Pwdr
+        link: "github.com/mcranter/Pwdr-Brand"
+        tagline: "A responsive ecommerce site broadly styled as a fitness website."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: The Sea Words
+        link: "github.com/mcranter/The-Sea-Words"
+        tagline: "A website similar to Urban Dictionary, where users can find/ add the meanings of nautical terms from the Golden Age of Sail."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Magic Match
+        link: "mcranter.github.io/Magic-Match/index.html"
+        tagline: "A Harry Potter themed memory game where users attempt to find matching pairs before the timer runs out."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Letter from Elmo
+        link: "github.com/mcranter/Letters-from-Elmo"
+        tagline: "The website of a fictional Dublin band."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 75%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
-        level: 98%
-
       - name: HTML5 & CSS
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
 
       - name: Sketch & Photoshop
         level: 60%
