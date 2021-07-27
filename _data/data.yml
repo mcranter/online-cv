@@ -30,19 +30,19 @@ sidebar:
 
 
     interests:
-      - item: Video Editing
-        link: youtube.com/channel/UCFY-s7NMq71M7HSP6HzjjFw
+      - item: Video Production
+        link: 
 
       - item: Bad Cartooning
-        link: instagram.com/postit_pictorial/
+        link: 
 
       - item: Blogging
-        link: adventuresintv.wordpress.com/
+        link: 
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a former journalist who, in 2019, took a job with Shopify in order to forge a new career path in tech. 
+      I am a former journalist who, in 2019, took a job with ecommerce giant Shopify in order to forge a new career path in tech. 
       My time there inspired to learn more about backend systems, and so in 2020 I began a software development course and this year I earned a Diploma in Full Stack Software Development. 
 
 education:
@@ -94,7 +94,7 @@ projects:
         Some of the projects I've created include:
     assignments:
       - title: Pwdr
-        link: "Pwdr-Brand"
+        link: "pwdr-brand.herokuapp.com"
         tagline: "A responsive ecommerce site broadly styled as a fitness website."
 
       - title: The Sea Words
