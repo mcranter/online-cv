@@ -58,15 +58,19 @@ experiences:
       time: 2019-2020
       company: SpunOut, Dublin
       details: |
-        • The brief of this fixed term project (which lasted 5 months) was to compile a database of signposts for a new service called the Crisis Text Line, which provides text support to people in crisis. This also involved updating, editing and verifying the existing SpunOut service listings (which appear on the site’s Help section) as the two organisations are run by a single parent company.
-        • The project itself was divided into several strands. The first involved verifying existing SpunOut listings by contacting the 600+ services/organisations listed on the site. This required reaching out to the respective services by email and phone to confirm that details were correct. Once that was done, I researched the services in greater detail to determine whether they met the predetermined criteria (that they be a recognised charity or state body, have clear funding streams, adhere to the company ethos, that they be free/ affordable, nationally available, and where possible GDPR compliant).
-        • Once those details were confirmed, I initiated a mailing campaign and automated system using a combination of Mailchimp, Zapier and Insightly (CRM) to enable the services to update their own listings in ‘real time’ going forward, removing the need to manually verify each services’ details on a regular basis. This automation will save great time and effort going forward.
+          The brief of this fixed term project (which lasted 5 months) was to compile a database of signposts for a new service called the Crisis Text Line, which provides text support to people in crisis. This also involved updating, editing and verifying the existing SpunOut service listings (which appear on the site’s Help section) as the two organisations are run by a single parent company.
+
+          The project itself was divided into several strands. The first involved verifying existing SpunOut listings by contacting the 600+ services/organisations listed on the site. This required reaching out to the respective services by email and phone to confirm that details were correct. Once that was done, I researched the services in greater detail to determine whether they met the predetermined criteria (that they be a recognised charity or state body, have clear funding streams, adhere to the company ethos, that they be free/ affordable, nationally available, and where possible GDPR compliant).
+
+          Once those details were confirmed, I initiated a mailing campaign and automated system using a combination of Mailchimp, Zapier and Insightly (CRM) to enable the services to update their own listings in ‘real time’ going forward, removing the need to manually verify each services’ details on a regular basis. This automation will save great time and effort going forward.
     - role: Guru
       time: 2018-2019
       company: Shopify, Remote
       details: |
         My duty was to support independent business owners in profitability by increasing audience footprints, expanding advertising reach, and developing effective marketing campaigns. I assisted establishing merchant domains, integrating stores with third party applications and channels, and recommended design layouts. I also resolved technical issues including domain connections, billing, store and platform themes. I advised on photo captions and product descriptions to drive sales.
+        
         Consistently exceeded biweekly performance evaluations measuring quality and progress towards financial targets.
+        
         Delivered stellar customer service and supported struggling merchants in making sales by providing education on marketing strategies.
     - role: Assistant Editor
       time: 2007-2018
@@ -74,10 +78,13 @@ experiences:
       details: |
         During my 11 year tenure at GCN, I:
         Composed relevant and engaging content for targeted audience. Directed digital marketing and branding through website management, platform updates, and online ads.
+        
         Utilised SEO, post optimisation, and influencer sponsorships to drive reader engagement.
         Designed templates and completed page layouts for print and digital formats. Led topic sourcing and story investigations to support feature writing, articles, and media reviews.
+        
         Scheduled and conducted interviews, edited articles, and supported writers in professional development and technical writing techniques.
         Researched competitor publications and employed new writing styles, designed marketing methods, and explored new revenue opportunities.
+       
         Was promoted through positions of increasing scope and responsibility from Freelance Film Critic, to Contract Journalist and ending with Assistant Editor.
 
 
@@ -87,23 +94,23 @@ projects:
         Some of the projects I've created include:
     assignments:
       - title: Pwdr
-        link: "github.com/mcranter/Pwdr-Brand"
+        link: "Pwdr-Brand"
         tagline: "A responsive ecommerce site broadly styled as a fitness website."
 
       - title: The Sea Words
-        link: "github.com/mcranter/The-Sea-Words"
+        link: "The-Sea-Words"
         tagline: "A website similar to Urban Dictionary, where users can find/ add the meanings of nautical terms from the Golden Age of Sail."
 
       - title: Magic Match
-        link: "mcranter.github.io/Magic-Match/index.html"
+        link: "Magic-Match/index.html"
         tagline: "A Harry Potter themed memory game where users attempt to find matching pairs before the timer runs out."
 
       - title: Letter from Elmo
-        link: "github.com/mcranter/Letters-from-Elmo"
+        link: "Letters-from-Elmo"
         tagline: "The website of a fictional Dublin band."
 
 
-skills:
+tech skills:
     title: Skills &amp; Proficiency
 
     toolset:
@@ -116,7 +123,7 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Sketch & Photoshop
+      - name: SQL & Postgres
         level: 60%
 
 footer: >
