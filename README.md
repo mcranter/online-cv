@@ -22,7 +22,7 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://webj
     </td>
   </tr>
 </table>
-
+View my online cv [here](https://mcranter.github.io/online-cv/)
 ## Installation
 
 * [Fork](https://github.com/sharu725/online-cv/fork) the repository
