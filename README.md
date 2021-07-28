@@ -15,4 +15,4 @@ Watch sharu725's [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installat
 
 ## Credits
 
-Thanks to github user[sharu725](https://github.com/sharu725/online-cv).
+Thanks to github user [sharu725](https://github.com/sharu725/online-cv) original creator of this project.
