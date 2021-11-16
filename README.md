@@ -1,5 +1,4 @@
 
-View my online cv [here](https://mcranter.github.io/online-cv/)
 
 ## Installation
 
